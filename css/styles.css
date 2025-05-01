@@ -21,14 +21,12 @@ body {
   line-height: 1.6667;
   color: #4d5ae5;
   width: 44px;
-  height: 21px;
 }
 
 .logo1 {
   font-family: raleway, sans-serif;
   font-size: 18px;
   width: 71px;
-  height: 21px;
   letter-spacing: 3%;
   line-height: 1.6667;
   font-weight: 700;
@@ -36,29 +34,24 @@ body {
 
 .Studio {
   width: 48px;
-  height: 24px;
 }
 
 .Portfolio {
   width: 66px;
-  height: 24px;
 }
 
 .Contacts {
   width: 67px;
-  height: 24px;
 }
 
 .mail {
   width: 153px;
-  height: 24px;
   font-weight: 400;
   color: #434455;
 }
 
 .tel {
   width: 151px;
-  height: 24px;
   font-weight: 400;
   color: #434455;
 }
@@ -66,12 +59,10 @@ body {
 .section {
   background-color: #2e2f42;
   width: 1440px;
-  height: 600px;
 }
 
 .h1 {
   width: 496px;
-  height: 120px;
   font-weight: 700;
   font-size: 56px;
   line-height: 1, 071;
@@ -82,7 +73,6 @@ body {
 .button {
   cursor: pointer;
   width: 105px;
-  height: 24px;
   letter-spacing: 4%;
   vertical-align: middle;
   color: #ffffff;
@@ -91,32 +81,27 @@ body {
 
 .section1 {
   width: 1128px;
-  height: 104px;
 }
 
 .feature {
   width: 264px;
-  height: 24px;
   font-size: 20px;
   line-height: 1, 2;
 }
 
 .feature-text {
   width: 264px;
-  height: 72px;
   font-weight: 400;
   color: #434455;
 }
 
 .section2 {
   width: 1440px;
-  height: 732px;
   background-color: #f4f4fd;
 }
 
 .our-team {
   width: 162px;
-  height: 40px;
   font-weight: 700;
   font-size: 36px;
   line-height: 1, 111;
@@ -125,7 +110,6 @@ body {
 
 .team {
   width: 134px;
-  height: 24px;
   font-size: 20px;
   line-height: 1, 2;
   text-align: center;
@@ -133,7 +117,6 @@ body {
 
 .team-text {
   width: 128px;
-  height: 24px;
   font-weight: 400;
   color: #434455;
   text-align: center;
@@ -141,7 +124,6 @@ body {
 
 .team1 {
   width: 88px;
-  height: 24px;
   font-size: 20px;
   line-height: 1, 2;
   text-align: center;
@@ -149,14 +131,12 @@ body {
 
 .team-text1 {
   width: 144px;
-  height: 24px;
   font-weight: 400;
   color: #434455;
   text-align: center;
 }
 .team2 {
   width: 130px;
-  height: 24px;
   font-size: 20px;
   line-height: 1, 2;
   text-align: center;
@@ -164,7 +144,6 @@ body {
 
 .team-text2 {
   width: 75px;
-  height: 24px;
   font-weight: 400;
   color: #434455;
   text-align: center;
@@ -172,7 +151,6 @@ body {
 
 .team3 {
   width: 127px;
-  height: 24px;
   font-size: 20px;
   line-height: 1, 2;
   text-align: center;
@@ -180,7 +158,6 @@ body {
 
 .team-text3 {
   width: 85px;
-  height: 24px;
   font-weight: 400;
   color: #434455;
   text-align: center;
@@ -188,13 +165,11 @@ body {
 
 .section3 {
   width: 1128px;
-  height: 1000px;
   background-color: #e7e9fc;
 }
 
 .our-portfolio {
   width: 218px;
-  height: 40px;
   font-weight: 700;
   font-size: 36px;
   line-height: 1, 111;
@@ -203,84 +178,70 @@ body {
 
 .port1 {
   width: 118px;
-  height: 24px;
   font-size: 20px;
   line-height: 1, 2;
 }
 .port-text1 {
   width: 30px;
-  height: 24px;
   font-weight: 400;
   color: #434455;
 }
 .port2 {
   width: 172px;
-  height: 24px;
   font-size: 20px;
   line-height: 1, 2;
 }
 .port-text2 {
   width: 75px;
-  height: 24px;
   font-weight: 400;
   color: #434455;
 }
 .port3 {
   width: 438px;
-  height: 24px;
   font-size: 20px;
   line-height: 1, 2;
 }
 .port-text3 {
   width: 30px;
-  height: 24px;
   font-weight: 400;
   color: #434455;
 }
 .port4 {
   width: 113px;
-  height: 24px;
   font-size: 20px;
   line-height: 1, 2;
 }
 .port-text4 {
   width: 75px;
-  height: 24px;
   font-weight: 400;
   color: #434455;
 }
 .port5 {
   width: 181px;
-  height: 24px;
   font-size: 20px;
   line-height: 1, 2;
 }
 .port-text5 {
   width: 51px;
-  height: 24px;
   font-weight: 400;
   color: #434455;
 }
 .port6 {
   width: 142px;
-  height: 24px;
   font-size: 20px;
   line-height: 1, 2;
 }
 .port-text6 {
   width: 75px;
-  height: 24px;
   font-weight: 400;
   color: #434455;
 }
 .footer {
   width: 1440px;
-  height: 312px;
   background-color: #2e2f42;
 }
 .footer-text {
   width: 264px;
-  height: 72px;
   font-weight: 400;
   color: #f4f4fd;
 }
